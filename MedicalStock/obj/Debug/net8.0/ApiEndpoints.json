@@ -1,0 +1,186 @@
+[
+  {
+    "ContainingType": "MedicalStock.Controllers.GenericController",
+    "Method": "Create",
+    "RelativePath": "api/generic/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genericDto",
+        "Type": "MedicalStock.Model.Dtos.GenericDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalStock.Controllers.GenericController",
+    "Method": "Delete",
+    "RelativePath": "api/generic/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genericDto",
+        "Type": "MedicalStock.Model.Dtos.GenericDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalStock.Controllers.GenericController",
+    "Method": "IsGenericInUse",
+    "RelativePath": "api/generic/IsGenericInUse",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalStock.Controllers.GenericController",
+    "Method": "ListAll",
+    "RelativePath": "api/generic/ListAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalStock.Controllers.GenericController",
+    "Method": "ReadGeneric",
+    "RelativePath": "api/generic/ReadGeneric",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalStock.Controllers.GenericController",
+    "Method": "Update",
+    "RelativePath": "api/generic/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genericDto",
+        "Type": "MedicalStock.Model.Dtos.GenericDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalStock.Controllers.MedicineController",
+    "Method": "Create",
+    "RelativePath": "api/medicine/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "medicineDto",
+        "Type": "MedicalStock.Model.Dtos.MedicineDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalStock.Controllers.MedicineController",
+    "Method": "Delete",
+    "RelativePath": "api/medicine/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "medicineDto",
+        "Type": "MedicalStock.Model.Dtos.MedicineDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalStock.Controllers.MedicineController",
+    "Method": "ExportToExcel",
+    "RelativePath": "api/medicine/ExportToExcel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalStock.Controllers.MedicineController",
+    "Method": "ExportToPdf",
+    "RelativePath": "api/medicine/ExportToPdf",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalStock.Controllers.MedicineController",
+    "Method": "ListAll",
+    "RelativePath": "api/medicine/ListAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalStock.Controllers.MedicineController",
+    "Method": "ReadMedicine",
+    "RelativePath": "api/medicine/ReadMedicine",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedicalStock.Controllers.MedicineController",
+    "Method": "Update",
+    "RelativePath": "api/medicine/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "medicineDto",
+        "Type": "MedicalStock.Model.Dtos.MedicineDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

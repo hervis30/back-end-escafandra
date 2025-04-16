@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProyectosPractica\\MedicalStock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6B84FD-547D-4278-AD55-2CA9E457D01A}|MedicalStock\\MedicalStock.csproj|d:\\proyectospractica\\medicalstock\\medicalstock\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6B84FD-547D-4278-AD55-2CA9E457D01A}|MedicalStock\\MedicalStock.csproj|solutionrelative:medicalstock\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6B84FD-547D-4278-AD55-2CA9E457D01A}|MedicalStock\\MedicalStock.csproj|d:\\proyectospractica\\medicalstock\\medicalstock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6B84FD-547D-4278-AD55-2CA9E457D01A}|MedicalStock\\MedicalStock.csproj|solutionrelative:medicalstock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 489,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicineController.cs",
+              "DocumentMoniker": "D:\\ProyectosPractica\\MedicalStock\\MedicalStock\\Controllers\\MedicineController.cs",
+              "RelativeDocumentMoniker": "MedicalStock\\Controllers\\MedicineController.cs",
+              "ToolTip": "D:\\ProyectosPractica\\MedicalStock\\MedicalStock\\Controllers\\MedicineController.cs",
+              "RelativeToolTip": "MedicalStock\\Controllers\\MedicineController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:35:03.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProyectosPractica\\MedicalStock\\MedicalStock\\Program.cs",
+              "RelativeDocumentMoniker": "MedicalStock\\Program.cs",
+              "ToolTip": "D:\\ProyectosPractica\\MedicalStock\\MedicalStock\\Program.cs",
+              "RelativeToolTip": "MedicalStock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:34:46.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
